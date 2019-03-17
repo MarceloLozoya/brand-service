@@ -2,7 +2,7 @@
 
 <p>A Node.js server connected to a cloud Mongo database which exposes HTTP endpoints for managing Publishers, Brands and Categories.</p>
 
-<p><b>Note</b>: Written and tested with Node v7.2.0.</p>
+<p><b>Note</b>: The databse is prepopulated with some test data. Written and tested with Node v7.2.0.</p>
 
 <hr>
 
